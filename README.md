@@ -7,8 +7,7 @@
 
 <br/>
 
-This repository houses an efficient automation solution designed for extracting text from a series of **scanned PDF documents** sharing identical layouts and formats. Leveraging screen scraping with **optical character recognition (OCR)** method, the UiPath RPA robot achieves nearly 98% accuracy in text recognition. It **adeptly extracts relevant information from each scanned document and consolidates it into a single text file**, exemplified by the **test_reports.txt** file. This RPA robot offers a rapid automation solution, significantly reducing the time-consuming manual effort required for the same task.
-
+This repository showcases the seamless integration of the **[UiPath Platform](https://www.uipath.com/)** with the [**Desktop Outlook Application**](https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-for-windows), demonstrating how automation can **streamline email operations**. The UiPath RPA robot is designed to **automatically retrieve and save the 10 most recent unread email messages, along with attachments, from the Desktop Outlook App onto your local machine**. Additionally, it **sends an automation report to specified recipients**, keeping them informed about the mailing activities that have taken place. This project demonstrates how UiPath can be harnessed to improve email management and efficiency.
 
 _You can check out the **automation demo video** below_:
 
