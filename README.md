@@ -78,7 +78,7 @@ To run the RPA workflow on your local machine, follow these steps:
 1. Either **download** this repository to your local machine or **clone** it directly within your UiPath Studio.
 2. Open the **UiPath Studio** software on your machine.
 3. Locate and **open** the **Main.xaml** file from the downloaded repository in **UiPath Studio**.
-4. **Run** the **Main.xaml** file to start the OCR-based scraping process on scanned documents.
+4. **Run** the **Main.xaml** file to start the email automation process.
 
 <br/>
 
