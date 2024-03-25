@@ -1,5 +1,5 @@
 ### UiPath RPA Robot
-# Email Automation with RPA
+# Outlook Email Automation with RPA
 
 [![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/MaxineXiong)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
